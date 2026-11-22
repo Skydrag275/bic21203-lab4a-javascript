@@ -3,9 +3,8 @@ Web Development
 
 Muhammad Fikri bin Azman
 CI240104
-.
-.
-.
+
+
 This repository contains my solutions for BIC21203 Web Development (Lab 4A: JavaScript), covering DOM manipulation, event listeners, conditional logic, and loops:
 
 Question 1: Changes the paragraph text to "Hello there!" when the button is clicked.
@@ -13,9 +12,9 @@ Question 1: Changes the paragraph text to "Hello there!" when the button is clic
 Question 2: Validates user input (including decimals, empty/whitespace inputs, and non-numeric text) and compares numbers against 10.
 
 Question 3: Generates a numbered list from 1 to 5 ("The number is 1" to "The number is 5") and clears old items on repeated clicks to prevent duplicates.
-.
-.
-.
+
+
+
 Instructions to Run Each Question
 
 1. Clone or download this repository and open it in a code editor such as VS Code.
