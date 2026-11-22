@@ -22,8 +22,8 @@ Instructions to Run Each Question
 
 2. Open each question's HTML file in a web browser (or run it using Live Server):
 
-Question 1: Open q1/index.html and click Change Message.
+  Question 1: Open q1/index.html and click Change Message.
 
-Question 2: Open q2/index.html, enter a value (such as 5, 10, 15, 10.5, abc) and click Check.
+  Question 2: Open q2/index.html, enter a value (such as 5, 10, 15, 10.5, abc) and click Check.
 
-Question 3: Open q3/index.html and click Generate (click multiple times to verify no duplicate items appear).
+  Question 3: Open q3/index.html and click Generate (click multiple times to verify no duplicate items appear).
